@@ -1,0 +1,14 @@
+# testing sftp
+#open sftp://shelltoazure:5H3%5El1t0%40zu2_%21%23Aw1x@20.44.236.112:42771/HOHK/HK/OUT/ -hostkey="ssh-ed25519 255 3StKHy0zwBIzEg5JWw2kQrMcHwJNvEuGmYHOkCo1nU8="
+
+# PROD sftp
+open sftp://shelltoazure:5H3%5El1t0%40zu2_%21%23Aw1x@40.119.238.126:52771/HOHK/HK/OUT/ -hostkey="ssh-ed25519 255 /AdtnCL2c+MK8ZeDqVswBkTFVmrV8aiGUE4fUckcQEU="
+
+# Force binary mode transfer
+option transfer binary
+# download file to sFTP
+synchronize local C:\inetpub\wwwroot\sftp\report
+ 
+# Disconnect
+close
+exit

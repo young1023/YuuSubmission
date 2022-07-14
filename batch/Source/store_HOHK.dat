@@ -1,0 +1,43 @@
+﻿BUNIT_EXTREF|LOC_NAME|LOC_EXTREF|LOC_DESC|LOCADD1|LOCADD2|LOCADD3|LOCCITY|LOCREG|LOCPOST|LOCCNTRY|LOCPRIMEMAIL|LOCSECEMAIL|LOCPHONE|POSEXTREF|location_channel|location_company|location_brand
+HOHK|Shell Victoria Road Station|HOHK-134|Shell 域多利道油站|555 Victoria Road||||||HK|||+852 2551 9346|POS_DEFAULT|Loc_Store|HOHK|
+HOHK|Shell Pok Fu Lam Station|HOHK-135|Shell 薄扶林油站|100 Pok Fu Lam Road||||||HK|||+852 2495 2585  |POS_DEFAULT|Loc_Store|HOHK|
+HOHK|Shell Quarry Bay Station|HOHK-185|Shell 鰂魚涌油站|979A King's Road,|Quarry Bay|||||HK|||+852 2561 3084|POS_DEFAULT|Loc_Store|HOHK|
+HOHK|Shell Electric Road Station|HOHK-187|Shell 電氣道油站|169-171 Electric Road,|North Point|||||HK|||+852 2570 3034|POS_DEFAULT|Loc_Store|HOHK|
+HOHK|Shell Kai Tak Station|HOHK-223|Shell 啟德油站|590 Prince Edward Road East||||||HK|||+852 2383 3160|POS_DEFAULT|Loc_Store|HOHK|
+HOHK|Shell Tai Kok Tsui Station|HOHK-224|Shell 大角咀油站|82 Tai Kok Tsui Road,|Tai Kok Tsui|||||HK|||+852 2392 8729|POS_DEFAULT|Loc_Store|HOHK|
+HOHK|Shell Kok Cheung Street Station|HOHK-225|Shell 角祥街油站|G/F 3 Sham Mong Road,|Tai Kok Tsui|||||HK|||+852 2395 2305|POS_DEFAULT|Loc_Store|HOHK|
+HOHK|Shell Tong Mei Road Station|HOHK-226|Shell 塘尾道油站|2 MongKok Road||||||HK|||+852 2393 1815|POS_DEFAULT|Loc_Store|HOHK|
+HOHK|Shell Argyle Street Station|HOHK-227|Shell 亞皆老街油站|108 Argyle Street||||||HK|||+852 2713 7221|POS_DEFAULT|Loc_Store|HOHK|
+HOHK|Shell Tung Choi Street Station|HOHK-229|Shell 通菜街油站|48 Boundary Street,|Mongkok |||||HK|||+852 2381 6924|POS_DEFAULT|Loc_Store|HOHK|
+HOHK|Shell Tai Hang Tung Station|HOHK-230|Shell 大坑東道油站|17 Tai Hang Tung Road||||||HK|||+852 2777 9304|POS_DEFAULT|Loc_Store|HOHK|
+HOHK|Shell Princess Margaret Road Station|HOHK-231|Shell 公主道油站|58 Princess Margaret Road|(Towards Kowloon Tong)|||||HK|||+852 2768 7362|POS_DEFAULT|Loc_Store|HOHK|
+HOHK|Shell Boundary Street Station|HOHK-233|Shell 界限街油站|126-128 Boundary Street||||||HK|||+852 2337 7027|POS_DEFAULT|Loc_Store|HOHK|
+HOHK|Shell Kowloon Bay West (New) Station|HOHK-242|Shell 九龍灣(西)油站|6 Kai Fuk Road, Kowloon Bay|(Towards Tokwawan)|||||HK|||+852 2798 9508|POS_DEFAULT|Loc_Store|HOHK|
+HOHK|Shell Matauwei Road Station|HOHK-250|Shell 馬頭圍道油站|163 Matauwei Road||||||HK|||+852 2712 4973|POS_DEFAULT|Loc_Store|HOHK|
+HOHK|Shell Kowloon Bay East (towards KT) Station|HOHK-255|Shell 九龍灣(東)油站|5 Kai Fuk Road, Kowloon Bay|(Towards Kwun Tong)|||||HK|||+852 2758 9621|POS_DEFAULT|Loc_Store|HOHK|
+HOHK|Shell Lei Yue Mun Road Station|HOHK-256|Shell 鯉魚門道油站|8 Lei Yue Mun Road||||||HK|||+852 2349 9893|POS_DEFAULT|Loc_Store|HOHK|
+HOHK|Shell Tung Chau Street Station|HOHK-262|Shell 通州街油站|493-495 Castle Peak Road||||||HK|||+852 2741 0802|POS_DEFAULT|Loc_Store|HOHK|
+HOHK|Shell Tai Po Road Station|HOHK-265|Shell 大埔道油站|45B Tai Po Road,|(J/O Nam Cheong Street)|||||HK|||+852 2777 2286|POS_DEFAULT|Loc_Store|HOHK|
+HOHK|Shell Clearwater Bay Road Station|HOHK-302|Shell 清水灣道油站|Clearwater Bay Road,|Pik Uk (Lot 1174)|||||HK|||+852 2719 8369|POS_DEFAULT|Loc_Store|HOHK|
+HOHK|Shell Tseung Kwan O Station|HOHK-303|Shell 將軍澳油站|100 Po Hong Road,|Tseung Kwan O|||||HK|||+852 2703 6373|POS_DEFAULT|Loc_Store|HOHK|
+HOHK|Shell Ma On Shan Station|HOHK-320|Shell 馬鞍山油站|21 On Shan Lane,|Ma On Shan|||||HK|||+852 2640 8705|POS_DEFAULT|Loc_Store|HOHK|
+HOHK|Shell Kwai Chung Station|HOHK-325|Shell 葵涌油站|682-688 Castle Peak Road,|Tai Wo Hau (Towards Kowloon)|||||HK|||+852 2420 0518|POS_DEFAULT|Loc_Store|HOHK|
+HOHK|Shell Tsing Yi Station|HOHK-328|Shell 青衣油站|173 Tsing Yi Rd West||||||HK|||+852 2431 0223|POS_DEFAULT|Loc_Store|HOHK|
+HOHK|Shell Fanling North Station|HOHK-333|Shell 粉嶺北油站|46 Sha Tau Kok Road,|Lung Yeuk Tau, Fanling|||||HK|||+852 2776 3823|POS_DEFAULT|Loc_Store|HOHK|
+HOHK|Shell Tong Yan San Tsuen Station|HOHK-341|Shell 唐人新村油站|20 Tong Yan San Tsuen Road ||||||HK|||+852 2477 4991|POS_DEFAULT|Loc_Store|HOHK|
+HOHK|Shell Ping Shan Station|HOHK-342|Shell 屏山油站|11 Castle Peak Road,|Ping Shan|||||HK|||+852 2447 1117|POS_DEFAULT|Loc_Store|HOHK|
+HOHK|Shell Au Tau Station|HOHK-347|Shell 坳頭油站|2K, Castle Peak Road,|Au Tau|||||HK|||+852 2478 8229|POS_DEFAULT|Loc_Store|HOHK|
+HOHK|Shell Shatin City One Station|HOHK-356|Shell 沙田第一城油站|5-7 Lok Shing Street,|Shatin Cityone|||||HK|||+852 2649 3331|POS_DEFAULT|Loc_Store|HOHK|
+HOHK|Shell Kowloon Reservoir Station|HOHK-357|Shell 九龍水塘油站|488 Tai Po Road||||||HK|||+852 2386 5977|POS_DEFAULT|Loc_Store|HOHK|
+HOHK|Shell Tuen Mun Station|HOHK-366|Shell 屯門油站|5 Tsun Wen Road,|Tuen Mun|||||HK|||+852 2464 4837|POS_DEFAULT|Loc_Store|HOHK|
+HOHK|Shell Hong Lok Yuen Station|HOHK-369|Shell 康樂園油站|16 Hong Lok Yuen Town Centre Crescent,|Tai Po|||||HK|||+852 2653 2188|POS_DEFAULT|Loc_Store|HOHK|
+HOHK|Shell Shatin Heights Station|HOHK-372|Shell 沙田嶺油站|8500 Tai Po Road,|Shatin Heights, Shatin|||||HK|||+852 2609 1285|POS_DEFAULT|Loc_Store|HOHK|
+HOHK|Shell Tsuen Wan West Station|HOHK-373|Shell 荃灣西油站|84-92 Chai Wan Kok Street,|Tsuen Wan|||||HK|||+852 2490 2906|POS_DEFAULT|Loc_Store|HOHK|
+HOHK|Shell Tsuen Wan New Station|HOHK-374|Shell 荃灣新 油站|731-737 Castle Peak Road,|Tai Wo Hau (Towards Tuen Mun)|||||HK|||+852 2420 1851|POS_DEFAULT|Loc_Store|HOHK|
+HOHK|Shell Hung Shui Kiu Station|HOHK-386|Shell 洪水橋油站|202 Castle Peak Road,|Hung Shui Kiu, Yuen Long|||||HK|||+852 2474 2578|POS_DEFAULT|Loc_Store|HOHK|
+HOHK|Shell Kam Sheung Road Station|HOHK-388|Shell 錦上路油站|118 Kam Sheung Road,|Pat Heung, NT|||||HK|||+852 2483 2537|POS_DEFAULT|Loc_Store|HOHK|
+HOHK|Shell Siu Lam Station|HOHK-393|Shell 小欖油站|98 Castle Peak Road,|Tai Lam, Tuen Mun|||||HK|||+852 2725 9978|POS_DEFAULT|Loc_Store|HOHK|
+HOHK|Shell San Hui Station|HOHK-399|Shell 新墟油站|3 San Tak Street, San Hui,|Tuen Mun|||||HK|||+852 2459 8130|POS_DEFAULT|Loc_Store|HOHK|
+HOHK|Shell Airport Cargo Terminal Station|HOHK-822|Shell 機場貨運中心油站|20 Chun Wan Road,|H.K. International Airport|||||HK|||+852 2215 0088|POS_DEFAULT|Loc_Store|HOHK|
+HOHK|Shell Airport Passenger Terminal Station|HOHK-833|Shell 機場客運大樓油站|6 Cheong King Road,|H.K. International Airport|||||HK|||+852 2949 0328|POS_DEFAULT|Loc_Store|HOHK|
+HOHK|Shell Airport (Cargo Terminal) Gas and Charging Station|HOHK-855|Shell機場(貨運中心)油電站|10 Check Lap Kok South Road|H.K. International Airport|||||HK|||+852 2215 0088|POS_DEFAULT|Loc_Store|HOHK|

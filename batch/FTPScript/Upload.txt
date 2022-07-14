@@ -1,0 +1,21 @@
+# uat server
+#open sftp://QADFGNEW:YWSnxNpwff6ptbRF@dfgsftp.kognitivloyalty.com/QA/Shell -hostkey="ssh-ed25519 255 RdNCfGsi8Jhirplz7pSPCYMI+pYT2U8Mcln3roHc6Yg="
+
+# production server
+open sftp://DFIDHK:SsBEuDny8pr8sF4g@dfgsftp.kognitivloyalty.com/ -hostkey="ssh-ed25519 255 RdNCfGsi8Jhirplz7pSPCYMI+pYT2U8Mcln3roHc6Yg="
+
+# Force binary mode transfer
+option transfer binary
+
+# upload file to uat sFTP
+#put -filemask=store*.dat C:\inetpub\wwwroot\sftp\batch\Submission\* /QA/Shell/Location/store*.dat -resume -delete
+#put C:\inetpub\wwwroot\sftp\batch\Submission\voucher*.dat /QA/Shell/OneTimeCodes/voucher*.dat -resume -delete
+
+
+# upload file to PROD sFTP
+put -filemask=store*.dat C:\inetpub\wwwroot\sftp\batch\Submission\* /DFIDHK/Shell/Location/store*.dat -resume -delete
+put C:\inetpub\wwwroot\sftp\batch\Submission\voucher*.dat /DFIDHK/Shell/OneTimeCodes/voucher*.dat -resume -delete
+ 
+# Disconnect
+close
+exit
